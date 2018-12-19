@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01-HelloOsgCow", "01-HelloOsgCow\01-HelloOsgCow.vcxproj", "{EBB5F5A2-B3EB-4D72-94AB-0C8B9BAAE94E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02-HelloTriangle", "02-HelloTriangle\02-HelloTriangle.vcxproj", "{05B35115-A98F-4874-B391-90E9787FBC83}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -13,6 +15,10 @@ Global
 		{EBB5F5A2-B3EB-4D72-94AB-0C8B9BAAE94E}.Debug|Win32.Build.0 = Debug|Win32
 		{EBB5F5A2-B3EB-4D72-94AB-0C8B9BAAE94E}.Release|Win32.ActiveCfg = Release|Win32
 		{EBB5F5A2-B3EB-4D72-94AB-0C8B9BAAE94E}.Release|Win32.Build.0 = Release|Win32
+		{05B35115-A98F-4874-B391-90E9787FBC83}.Debug|Win32.ActiveCfg = Debug|Win32
+		{05B35115-A98F-4874-B391-90E9787FBC83}.Debug|Win32.Build.0 = Debug|Win32
+		{05B35115-A98F-4874-B391-90E9787FBC83}.Release|Win32.ActiveCfg = Release|Win32
+		{05B35115-A98F-4874-B391-90E9787FBC83}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
