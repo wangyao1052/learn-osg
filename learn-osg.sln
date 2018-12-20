@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02-HelloTriangle", "02-Hell
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02-HelloTriangle-multicolors", "02-HelloTriangle-multicolors\02-HelloTriangle-multicolors.vcxproj", "{3D296B7D-EAE3-4459-B36C-B9D2F2C3FF3F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03-Box", "03-Box\03-Box.vcxproj", "{EED3FD8D-F8EF-4A11-B532-6752572F7284}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -25,6 +27,10 @@ Global
 		{3D296B7D-EAE3-4459-B36C-B9D2F2C3FF3F}.Debug|Win32.Build.0 = Debug|Win32
 		{3D296B7D-EAE3-4459-B36C-B9D2F2C3FF3F}.Release|Win32.ActiveCfg = Release|Win32
 		{3D296B7D-EAE3-4459-B36C-B9D2F2C3FF3F}.Release|Win32.Build.0 = Release|Win32
+		{EED3FD8D-F8EF-4A11-B532-6752572F7284}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EED3FD8D-F8EF-4A11-B532-6752572F7284}.Debug|Win32.Build.0 = Debug|Win32
+		{EED3FD8D-F8EF-4A11-B532-6752572F7284}.Release|Win32.ActiveCfg = Release|Win32
+		{EED3FD8D-F8EF-4A11-B532-6752572F7284}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
