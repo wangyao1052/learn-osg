@@ -24,7 +24,7 @@
     <ClCompile Include="..\common\CommonFunctions.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="osg-cookbook-ch0901-osg_qt">
+    <ClCompile Include="osg-cookbook-ch0901-osg_qt.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
