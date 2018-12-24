@@ -15,6 +15,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "osg-cookbook", "osg-cookboo
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "osg-cookbook-ch0901-osg_qt", "osg-cookbook\ch0901-osg_qt\osg-cookbook-ch0901-osg_qt.vcxproj", "{26F62B2F-BBA5-4AA9-A7D8-E6B5674FD4AC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05-NodeVisitor", "05-NodeVisitor\05-NodeVisitor.vcxproj", "{6C4F6C07-4F47-417D-B291-C230B15B90B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -45,6 +47,10 @@ Global
 		{26F62B2F-BBA5-4AA9-A7D8-E6B5674FD4AC}.Debug|Win32.Build.0 = Debug|Win32
 		{26F62B2F-BBA5-4AA9-A7D8-E6B5674FD4AC}.Release|Win32.ActiveCfg = Release|Win32
 		{26F62B2F-BBA5-4AA9-A7D8-E6B5674FD4AC}.Release|Win32.Build.0 = Release|Win32
+		{6C4F6C07-4F47-417D-B291-C230B15B90B7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6C4F6C07-4F47-417D-B291-C230B15B90B7}.Debug|Win32.Build.0 = Debug|Win32
+		{6C4F6C07-4F47-417D-B291-C230B15B90B7}.Release|Win32.ActiveCfg = Release|Win32
+		{6C4F6C07-4F47-417D-B291-C230B15B90B7}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
