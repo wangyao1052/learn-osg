@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05-NodeVisitor", "05-NodeVi
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06-RotateCallback", "06-RotateCallback\06-RotateCallback.vcxproj", "{02A3E776-D39E-45D2-9F4C-626B280AE01F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07-TransformNode", "07-TransformNode\07-TransformNode.vcxproj", "{1E717DC1-A824-44C6-B4CE-6310073287C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -57,6 +59,10 @@ Global
 		{02A3E776-D39E-45D2-9F4C-626B280AE01F}.Debug|Win32.Build.0 = Debug|Win32
 		{02A3E776-D39E-45D2-9F4C-626B280AE01F}.Release|Win32.ActiveCfg = Release|Win32
 		{02A3E776-D39E-45D2-9F4C-626B280AE01F}.Release|Win32.Build.0 = Release|Win32
+		{1E717DC1-A824-44C6-B4CE-6310073287C0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1E717DC1-A824-44C6-B4CE-6310073287C0}.Debug|Win32.Build.0 = Debug|Win32
+		{1E717DC1-A824-44C6-B4CE-6310073287C0}.Release|Win32.ActiveCfg = Release|Win32
+		{1E717DC1-A824-44C6-B4CE-6310073287C0}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
