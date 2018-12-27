@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07-TransformNode", "07-Tran
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08-SwitchNode", "08-SwitchNode\08-SwitchNode.vcxproj", "{9CF7631F-E77D-4766-8BDC-ED0F9721C92F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "09-LodNode", "09-LodNode\09-LodNode.vcxproj", "{581E799B-10BB-464D-9DF1-C282870210E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -69,6 +71,10 @@ Global
 		{9CF7631F-E77D-4766-8BDC-ED0F9721C92F}.Debug|Win32.Build.0 = Debug|Win32
 		{9CF7631F-E77D-4766-8BDC-ED0F9721C92F}.Release|Win32.ActiveCfg = Release|Win32
 		{9CF7631F-E77D-4766-8BDC-ED0F9721C92F}.Release|Win32.Build.0 = Release|Win32
+		{581E799B-10BB-464D-9DF1-C282870210E4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{581E799B-10BB-464D-9DF1-C282870210E4}.Debug|Win32.Build.0 = Debug|Win32
+		{581E799B-10BB-464D-9DF1-C282870210E4}.Release|Win32.ActiveCfg = Release|Win32
+		{581E799B-10BB-464D-9DF1-C282870210E4}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
