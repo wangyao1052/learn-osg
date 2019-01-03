@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10-SimpleHouse", "10-Simple
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11-Text", "11-Text\11-Text.vcxproj", "{096CF928-026E-4800-90EB-C4FD9378C998}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12-Texture", "12-Texture\12-Texture.vcxproj", "{6401CA5C-CE2D-4AFD-9C28-A6527DF03F6B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -87,6 +89,10 @@ Global
 		{096CF928-026E-4800-90EB-C4FD9378C998}.Debug|Win32.Build.0 = Debug|Win32
 		{096CF928-026E-4800-90EB-C4FD9378C998}.Release|Win32.ActiveCfg = Release|Win32
 		{096CF928-026E-4800-90EB-C4FD9378C998}.Release|Win32.Build.0 = Release|Win32
+		{6401CA5C-CE2D-4AFD-9C28-A6527DF03F6B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6401CA5C-CE2D-4AFD-9C28-A6527DF03F6B}.Debug|Win32.Build.0 = Debug|Win32
+		{6401CA5C-CE2D-4AFD-9C28-A6527DF03F6B}.Release|Win32.ActiveCfg = Release|Win32
+		{6401CA5C-CE2D-4AFD-9C28-A6527DF03F6B}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
