@@ -31,6 +31,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11-Text", "11-Text\11-Text.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12-Texture", "12-Texture\12-Texture.vcxproj", "{6401CA5C-CE2D-4AFD-9C28-A6527DF03F6B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13-Mipmap", "13-Mipmap\13-Mipmap.vcxproj", "{20A5A2AB-9746-464C-B07D-643C7D5F63C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -93,6 +95,10 @@ Global
 		{6401CA5C-CE2D-4AFD-9C28-A6527DF03F6B}.Debug|Win32.Build.0 = Debug|Win32
 		{6401CA5C-CE2D-4AFD-9C28-A6527DF03F6B}.Release|Win32.ActiveCfg = Release|Win32
 		{6401CA5C-CE2D-4AFD-9C28-A6527DF03F6B}.Release|Win32.Build.0 = Release|Win32
+		{20A5A2AB-9746-464C-B07D-643C7D5F63C7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{20A5A2AB-9746-464C-B07D-643C7D5F63C7}.Debug|Win32.Build.0 = Debug|Win32
+		{20A5A2AB-9746-464C-B07D-643C7D5F63C7}.Release|Win32.ActiveCfg = Release|Win32
+		{20A5A2AB-9746-464C-B07D-643C7D5F63C7}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
