@@ -33,6 +33,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12-Texture", "12-Texture\12
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13-Mipmap", "13-Mipmap\13-Mipmap.vcxproj", "{20A5A2AB-9746-464C-B07D-643C7D5F63C7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14-FogCallback", "14-FogCallback\14-FogCallback.vcxproj", "{B1A5D70F-484A-451B-B547-790ECD3F454D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -99,6 +101,10 @@ Global
 		{20A5A2AB-9746-464C-B07D-643C7D5F63C7}.Debug|Win32.Build.0 = Debug|Win32
 		{20A5A2AB-9746-464C-B07D-643C7D5F63C7}.Release|Win32.ActiveCfg = Release|Win32
 		{20A5A2AB-9746-464C-B07D-643C7D5F63C7}.Release|Win32.Build.0 = Release|Win32
+		{B1A5D70F-484A-451B-B547-790ECD3F454D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B1A5D70F-484A-451B-B547-790ECD3F454D}.Debug|Win32.Build.0 = Debug|Win32
+		{B1A5D70F-484A-451B-B547-790ECD3F454D}.Release|Win32.ActiveCfg = Release|Win32
+		{B1A5D70F-484A-451B-B547-790ECD3F454D}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
