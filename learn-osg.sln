@@ -37,6 +37,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14-FogCallback", "14-FogCal
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "15-Camera_BirdsEye", "15-Camera_BirdsEye\15-Camera_BirdsEye.vcxproj", "{C0CFC19C-7F92-4114-8E86-9C3803CB387C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16-RenderToTexture", "16-RenderToTexture\16-RenderToTexture.vcxproj", "{AD7AF042-8694-402F-BE06-3590589316CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -111,6 +113,10 @@ Global
 		{C0CFC19C-7F92-4114-8E86-9C3803CB387C}.Debug|Win32.Build.0 = Debug|Win32
 		{C0CFC19C-7F92-4114-8E86-9C3803CB387C}.Release|Win32.ActiveCfg = Release|Win32
 		{C0CFC19C-7F92-4114-8E86-9C3803CB387C}.Release|Win32.Build.0 = Release|Win32
+		{AD7AF042-8694-402F-BE06-3590589316CA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AD7AF042-8694-402F-BE06-3590589316CA}.Debug|Win32.Build.0 = Debug|Win32
+		{AD7AF042-8694-402F-BE06-3590589316CA}.Release|Win32.ActiveCfg = Release|Win32
+		{AD7AF042-8694-402F-BE06-3590589316CA}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
