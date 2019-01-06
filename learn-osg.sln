@@ -39,6 +39,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "15-Camera_BirdsEye", "15-Ca
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16-RenderToTexture", "16-RenderToTexture\16-RenderToTexture.vcxproj", "{AD7AF042-8694-402F-BE06-3590589316CA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17-Viewer", "17-Viewer\17-Viewer.vcxproj", "{E60D344C-656E-4C1D-BE59-5131914954DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -117,6 +119,10 @@ Global
 		{AD7AF042-8694-402F-BE06-3590589316CA}.Debug|Win32.Build.0 = Debug|Win32
 		{AD7AF042-8694-402F-BE06-3590589316CA}.Release|Win32.ActiveCfg = Release|Win32
 		{AD7AF042-8694-402F-BE06-3590589316CA}.Release|Win32.Build.0 = Release|Win32
+		{E60D344C-656E-4C1D-BE59-5131914954DD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E60D344C-656E-4C1D-BE59-5131914954DD}.Debug|Win32.Build.0 = Debug|Win32
+		{E60D344C-656E-4C1D-BE59-5131914954DD}.Release|Win32.ActiveCfg = Release|Win32
+		{E60D344C-656E-4C1D-BE59-5131914954DD}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
