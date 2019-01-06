@@ -41,6 +41,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16-RenderToTexture", "16-Re
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17-Viewer", "17-Viewer\17-Viewer.vcxproj", "{E60D344C-656E-4C1D-BE59-5131914954DD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "18-CompositeViewer", "18-CompositeViewer\18-CompositeViewer.vcxproj", "{8A851EAA-9660-48D7-8860-42966A6EB7CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -123,6 +125,10 @@ Global
 		{E60D344C-656E-4C1D-BE59-5131914954DD}.Debug|Win32.Build.0 = Debug|Win32
 		{E60D344C-656E-4C1D-BE59-5131914954DD}.Release|Win32.ActiveCfg = Release|Win32
 		{E60D344C-656E-4C1D-BE59-5131914954DD}.Release|Win32.Build.0 = Release|Win32
+		{8A851EAA-9660-48D7-8860-42966A6EB7CD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8A851EAA-9660-48D7-8860-42966A6EB7CD}.Debug|Win32.Build.0 = Debug|Win32
+		{8A851EAA-9660-48D7-8860-42966A6EB7CD}.Release|Win32.ActiveCfg = Release|Win32
+		{8A851EAA-9660-48D7-8860-42966A6EB7CD}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
