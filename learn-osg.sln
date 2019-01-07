@@ -43,6 +43,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17-Viewer", "17-Viewer\17-V
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "18-CompositeViewer", "18-CompositeViewer\18-CompositeViewer.vcxproj", "{8A851EAA-9660-48D7-8860-42966A6EB7CD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "19-KeyboardHandler", "19-KeyboardHandler\19-KeyboardHandler.vcxproj", "{8FCE00DE-12B4-40D8-BCB5-E030E62E332B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -129,6 +131,10 @@ Global
 		{8A851EAA-9660-48D7-8860-42966A6EB7CD}.Debug|Win32.Build.0 = Debug|Win32
 		{8A851EAA-9660-48D7-8860-42966A6EB7CD}.Release|Win32.ActiveCfg = Release|Win32
 		{8A851EAA-9660-48D7-8860-42966A6EB7CD}.Release|Win32.Build.0 = Release|Win32
+		{8FCE00DE-12B4-40D8-BCB5-E030E62E332B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8FCE00DE-12B4-40D8-BCB5-E030E62E332B}.Debug|Win32.Build.0 = Debug|Win32
+		{8FCE00DE-12B4-40D8-BCB5-E030E62E332B}.Release|Win32.ActiveCfg = Release|Win32
+		{8FCE00DE-12B4-40D8-BCB5-E030E62E332B}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
