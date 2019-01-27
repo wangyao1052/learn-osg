@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="osg-cookbook-ch0402-PowerWall.cpp">
+    <ClCompile Include="..\common\CommonFunctions.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="..\common\CommonFunctions.cpp">
+    <ClCompile Include="ch0402-PowerWall.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

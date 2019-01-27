@@ -11,9 +11,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{745411F6-E248-49E8-94C7-7C2B286F4C58}</ProjectGuid>
+    <ProjectGuid>{C54EB074-4EF2-49C8-A377-E4E63532209F}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>osgcookbookch0405FourViews</RootNamespace>
+    <RootNamespace>osgcookbookch0307SelectFace</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -78,7 +78,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\common\CommonFunctions.cpp" />
-    <ClCompile Include="ch0405-FourViews.cpp" />
+    <ClCompile Include="ch0307-SelectFace.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

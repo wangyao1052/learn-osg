@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\common\CommonFunctions.cpp">
+    <ClCompile Include="ch0307-SelectFace.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="ch0306-SelectModel.cpp">
+    <ClCompile Include="..\common\CommonFunctions.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

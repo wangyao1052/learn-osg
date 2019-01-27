@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="osg-cookbook-ch0401-ViewsOnMultipleScreens.cpp">
+    <ClCompile Include="..\common\CommonFunctions.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="..\common\CommonFunctions.cpp">
+    <ClCompile Include="ch0401-ViewsOnMultipleScreens.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

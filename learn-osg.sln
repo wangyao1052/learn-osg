@@ -57,6 +57,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "osg-cookbook-ch0406-Manipul
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "osg-cookbook-ch0306-SelectModel", "osg-cookbook\ch0306-SelectModel\osg-cookbook-ch0306-SelectModel.vcxproj", "{0AFEB406-E449-4B0A-8C36-2DEF25AC13DC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "osg-cookbook-ch0307-SelectFace", "osg-cookbook\ch0307-SelectFace\osg-cookbook-ch0307-SelectFace.vcxproj", "{C54EB074-4EF2-49C8-A377-E4E63532209F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -171,6 +173,10 @@ Global
 		{0AFEB406-E449-4B0A-8C36-2DEF25AC13DC}.Debug|Win32.Build.0 = Debug|Win32
 		{0AFEB406-E449-4B0A-8C36-2DEF25AC13DC}.Release|Win32.ActiveCfg = Release|Win32
 		{0AFEB406-E449-4B0A-8C36-2DEF25AC13DC}.Release|Win32.Build.0 = Release|Win32
+		{C54EB074-4EF2-49C8-A377-E4E63532209F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C54EB074-4EF2-49C8-A377-E4E63532209F}.Debug|Win32.Build.0 = Debug|Win32
+		{C54EB074-4EF2-49C8-A377-E4E63532209F}.Release|Win32.ActiveCfg = Release|Win32
+		{C54EB074-4EF2-49C8-A377-E4E63532209F}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -182,5 +188,6 @@ Global
 		{745411F6-E248-49E8-94C7-7C2B286F4C58} = {F492D457-D510-4852-8B7E-51409D8ED0B5}
 		{ACCDA309-5383-4AAC-90FD-1455347A0D8C} = {F492D457-D510-4852-8B7E-51409D8ED0B5}
 		{0AFEB406-E449-4B0A-8C36-2DEF25AC13DC} = {F492D457-D510-4852-8B7E-51409D8ED0B5}
+		{C54EB074-4EF2-49C8-A377-E4E63532209F} = {F492D457-D510-4852-8B7E-51409D8ED0B5}
 	EndGlobalSection
 EndGlobal
