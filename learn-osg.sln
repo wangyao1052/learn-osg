@@ -67,6 +67,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "osg-cookbook-ch0403-DepthPa
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "osg-cookbook-ch0404-RadarMap", "osg-cookbook\ch0404-RadarMap\osg-cookbook-ch0404-RadarMap.vcxproj", "{00F543AE-BFBA-4804-A552-5F0D4683F549}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "osg-cookbook-ch0407-FollowModel", "osg-cookbook\ch0407-FollowModel\osg-cookbook-ch0407-FollowModel.vcxproj", "{73AF19F7-8C27-4022-B7C4-00472901A13A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -201,6 +203,10 @@ Global
 		{00F543AE-BFBA-4804-A552-5F0D4683F549}.Debug|Win32.Build.0 = Debug|Win32
 		{00F543AE-BFBA-4804-A552-5F0D4683F549}.Release|Win32.ActiveCfg = Release|Win32
 		{00F543AE-BFBA-4804-A552-5F0D4683F549}.Release|Win32.Build.0 = Release|Win32
+		{73AF19F7-8C27-4022-B7C4-00472901A13A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{73AF19F7-8C27-4022-B7C4-00472901A13A}.Debug|Win32.Build.0 = Debug|Win32
+		{73AF19F7-8C27-4022-B7C4-00472901A13A}.Release|Win32.ActiveCfg = Release|Win32
+		{73AF19F7-8C27-4022-B7C4-00472901A13A}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -216,5 +222,6 @@ Global
 		{3D61C497-E2F2-474F-83F9-9F1EFC2C61B8} = {F492D457-D510-4852-8B7E-51409D8ED0B5}
 		{49CF66AD-5ABC-49A8-9B96-13D9537F5186} = {F492D457-D510-4852-8B7E-51409D8ED0B5}
 		{00F543AE-BFBA-4804-A552-5F0D4683F549} = {F492D457-D510-4852-8B7E-51409D8ED0B5}
+		{73AF19F7-8C27-4022-B7C4-00472901A13A} = {F492D457-D510-4852-8B7E-51409D8ED0B5}
 	EndGlobalSection
 EndGlobal
