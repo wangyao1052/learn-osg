@@ -65,6 +65,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03-ShapeDrawable", "03-Shap
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "osg-cookbook-ch0403-DepthPartition", "osg-cookbook\ch0403-DepthPartition\osg-cookbook-ch0403-DepthPartition.vcxproj", "{49CF66AD-5ABC-49A8-9B96-13D9537F5186}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "osg-cookbook-ch0404-RadarMap", "osg-cookbook\ch0404-RadarMap\osg-cookbook-ch0404-RadarMap.vcxproj", "{00F543AE-BFBA-4804-A552-5F0D4683F549}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -195,6 +197,10 @@ Global
 		{49CF66AD-5ABC-49A8-9B96-13D9537F5186}.Debug|Win32.Build.0 = Debug|Win32
 		{49CF66AD-5ABC-49A8-9B96-13D9537F5186}.Release|Win32.ActiveCfg = Release|Win32
 		{49CF66AD-5ABC-49A8-9B96-13D9537F5186}.Release|Win32.Build.0 = Release|Win32
+		{00F543AE-BFBA-4804-A552-5F0D4683F549}.Debug|Win32.ActiveCfg = Debug|Win32
+		{00F543AE-BFBA-4804-A552-5F0D4683F549}.Debug|Win32.Build.0 = Debug|Win32
+		{00F543AE-BFBA-4804-A552-5F0D4683F549}.Release|Win32.ActiveCfg = Release|Win32
+		{00F543AE-BFBA-4804-A552-5F0D4683F549}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -209,5 +215,6 @@ Global
 		{C54EB074-4EF2-49C8-A377-E4E63532209F} = {F492D457-D510-4852-8B7E-51409D8ED0B5}
 		{3D61C497-E2F2-474F-83F9-9F1EFC2C61B8} = {F492D457-D510-4852-8B7E-51409D8ED0B5}
 		{49CF66AD-5ABC-49A8-9B96-13D9537F5186} = {F492D457-D510-4852-8B7E-51409D8ED0B5}
+		{00F543AE-BFBA-4804-A552-5F0D4683F549} = {F492D457-D510-4852-8B7E-51409D8ED0B5}
 	EndGlobalSection
 EndGlobal
